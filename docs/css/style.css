@@ -1,0 +1,69 @@
+h1 {
+    color: darkolivegreen;
+    font-size: 3em;
+   font-fmaily:san-serif;
+    text-align: center;
+    text-decoration: underline overline;
+    border:10px; 
+    
+}
+
+h2 {color: darkolivegreen;
+text-align:center;}
+div {
+    width: wrap;
+    height: 300px;
+    border: 3px solid gold;
+    text-align: center;
+    font-size:  1.5em;
+   font-fmaily:san-serif;
+    background-color: darkolivegreen;
+}
+body{
+    background-color: black;
+}
+nav{
+    color: gold;
+    text-align: center;
+    background-color: darkolivegreen;
+    text-decoration-color: darkolivegreen;
+    font-size: larger;
+    font-fmaily:san-serif;
+    border-style: solid;
+    textwrap: 
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+a:link {color: gold;}
+p {
+    color: gold;
+    text-align: center;
+    background-color: black;
+    text-decoration-color: darkolivegreen;
+    font-size: larger;
+    border-style: solid;
+    font-fmaily:san-serif;
+}
+
+#home-title {
+    text-align: center;
+}
+
+.purple{
+    background-color: purple;
+}
+.red{
+    background-color: red;
+}
+.underline {
+    text-decoration: underline;
+}
+
+.underline > h1 {
+    color:darkolivegreen ;
+}
