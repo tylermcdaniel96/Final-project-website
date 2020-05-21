@@ -10,6 +10,8 @@ h1 {
 
 h2 {color: darkolivegreen;
 text-align:center;}
+h3 {color: darkolivegreen;
+text-align:center;}
 div {
     width: wrap;
     height: 300px;
@@ -29,13 +31,13 @@ nav{
     text-decoration-color: darkolivegreen;
     font-size: larger;
     font-family:san-serif;
-    border-style: solid;
+    border-style: solid; 
 }
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 100%;
 }
 
 a:link {color: gold;}
