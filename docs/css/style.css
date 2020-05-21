@@ -1,7 +1,7 @@
 h1 {
     color: darkolivegreen;
     font-size: 3em;
-   font-fmaily:san-serif;
+   font-family:san-serif;
     text-align: center;
     text-decoration: underline overline;
     border:10px; 
@@ -16,7 +16,7 @@ div {
     border: 3px solid gold;
     text-align: center;
     font-size:  1.5em;
-   font-fmaily:san-serif;
+   font-family:san-serif;
     background-color: darkolivegreen;
 }
 body{
@@ -28,9 +28,8 @@ nav{
     background-color: darkolivegreen;
     text-decoration-color: darkolivegreen;
     font-size: larger;
-    font-fmaily:san-serif;
+    font-family:san-serif;
     border-style: solid;
-    textwrap: 
 }
 img {
   display: block;
@@ -47,7 +46,7 @@ p {
     text-decoration-color: darkolivegreen;
     font-size: larger;
     border-style: solid;
-    font-fmaily:san-serif;
+    font-family:san-serif;
 }
 
 #home-title {
